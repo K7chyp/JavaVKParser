@@ -32,8 +32,6 @@
 
 ### Конфигурационный файл
 
-Создайте файл `src/main/resources/config.properties`:
-
 ```properties
 # Основные настройки VK API
 vk.api.token=YOUR_VK_API_TOKEN_HERE
@@ -65,19 +63,6 @@ logging.file=logs/vk-api-client.log
 # Экспорт
 export.json.enabled=true
 export.csv.enabled=false
-```
-
-## 🚀 Запуск приложения
-
-### Компиляция и запуск
-```bash
-mvn clean compile
-mvn exec:java
-```
-
-### Запуск с конкретным main классом
-```bash
-mvn compile exec:java -Dexec.mainClass="Main"
 ```
 
 ## 📁 Структура проекта
