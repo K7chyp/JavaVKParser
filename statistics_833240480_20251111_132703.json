@@ -1,0 +1,115 @@
+{
+  "user": {
+    "id": 833240480,
+    "name": "Evgeny Tskhe"
+  },
+  "friends": {
+    "total": 5000,
+    "topCities": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "closedPercentage": 9.1,
+    "avgFriendsOfFriends": 0.0
+  },
+  "groups": {
+    "total": 3,
+    "topGroups": [
+      {
+        "id": 161598574,
+        "name": "Евгений Цхэ",
+        "screen_name": "johnny_zeee",
+        "members_count": 32132,
+        "type": "page"
+      },
+      {
+        "id": 38043539,
+        "name": "Евгений Цхэ",
+        "screen_name": "johnny.zeeee",
+        "members_count": 16310,
+        "type": "page"
+      },
+      {
+        "id": 168325812,
+        "name": "Ченцов Дмитрий. Жизнь заново",
+        "screen_name": "chencdima",
+        "members_count": 12625,
+        "type": "page"
+      }
+    ],
+    "avgSize": 20355.666666666668,
+    "minGroup": {
+      "id": 168325812,
+      "name": "Ченцов Дмитрий. Жизнь заново",
+      "screen_name": "chencdima",
+      "members_count": 12625,
+      "type": "page"
+    },
+    "maxGroup": {
+      "id": 161598574,
+      "name": "Евгений Цхэ",
+      "screen_name": "johnny_zeee",
+      "members_count": 32132,
+      "type": "page"
+    }
+  },
+  "posts": {
+    "total": 102,
+    "avgActivity": 1.5,
+    "topPosts": [
+      {
+        "id": 1235,
+        "owner_id": 833240480,
+        "post_type": "post",
+        "text": "",
+        "comments": {
+          "count": 2
+        },
+        "likes": {
+          "count": 1
+        },
+        "reposts": {
+          "count": 0
+        }
+      },
+      {
+        "id": 1244,
+        "owner_id": 833240480,
+        "post_type": "post",
+        "text": "",
+        "comments": {
+          "count": 0
+        },
+        "likes": {
+          "count": 2
+        },
+        "reposts": {
+          "count": 0
+        }
+      },
+      {
+        "id": 1242,
+        "owner_id": 833240480,
+        "post_type": "post",
+        "text": "",
+        "comments": {
+          "count": 0
+        },
+        "likes": {
+          "count": 2
+        },
+        "reposts": {
+          "count": 0
+        }
+      }
+    ],
+    "avgTextLength": 0.0,
+    "postTypeDistribution": {
+      "post": 10
+    }
+  },
+  "generatedAt": "Nov 11, 2025, 1:26:57 PM"
+}
